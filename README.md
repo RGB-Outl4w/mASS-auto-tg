@@ -1,5 +1,6 @@
 # mASS-auto-tg
 Automatization of some in-game functions of the mASS Telegram game.
+Play here ---> [@m_ASS_game_bot](https://t.me/m_ASS_game_bot?start=f2d869565742)
 
 ## Execution
 Paste the following command into the **Telegram Webview Console**:
