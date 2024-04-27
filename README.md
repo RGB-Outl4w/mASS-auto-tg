@@ -2,7 +2,7 @@
 Automatization of some in-game functions of the mASS Telegram game.
 Play here ---> [@m_ASS_game_bot](https://t.me/m_ASS_game_bot?start=f2d869565742)
 
-## Useful
+## ✔️ Useful
 - You can monitor different cryptocurrencies prices using [our bot](https://t.me/crypteller_bot)
 
 ## What is mASS?
